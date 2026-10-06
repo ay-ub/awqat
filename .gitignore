@@ -3,5 +3,15 @@
 /data/methods.json
 /data/trash
 /docs
+!/docs/
+!/docs/product.md
+!/docs/architecture.md
+!/docs/operations.md
+!/docs/contributing.md
+!/docs/roadmap.md
+!/docs/requirements/
+!/docs/requirements/*.md
+!/docs/decisions/
+!/docs/decisions/*.md
 /exmamples
 /scripts
